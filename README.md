@@ -23,7 +23,7 @@ Every challenge becomes an opportunity to innovate when a versatile developer bl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://http://www.linkedin.com/in/arbab-zaheer-369b35177)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/arbabzaheer)
 
-![DUCAT Logo](https://your-logo-link.com/logo.png)
+![My Logo](https://github.com/arbabzaheer/arbabzaheer/blob/main/logo/logo.png)
 
 <!--
 **arbabzaheer/arbabzaheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
