@@ -20,7 +20,7 @@ Every challenge becomes an opportunity to innovate when a versatile developer bl
 
 **Email**: zarbab601@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://http://www.linkedin.com/in/arbab-zaheer-369b35177)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arbab-zaheer-369b35177)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/arbabzaheer)
 
 ![My Logo](https://github.com/arbabzaheer/arbabzaheer/blob/main/logo/logo.png)
